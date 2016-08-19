@@ -297,7 +297,7 @@ then, variable names for *fulldata* were changed to descriptive names
 
 next, a second data table, *fulldata2* was created by isolating only the variables that measured *mean* or *standard deviation* of the features from the original data set.
 
-then the *activity labels* were replaced with descriptive *activity names* and the first tidy data set *tidy_data.txt* was created and saved.
+then the *activity labels* were replaced with descriptive *activity names* and the first tidy data set *tidy_data* was created.
 
 lastly, a second independent tidy data set was created from *tidy_data*. This data set includes the *averages* *of the variables in tidy_data by*
 - activity
