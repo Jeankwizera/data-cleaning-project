@@ -72,10 +72,6 @@ fulldata3 = select(fulldata3, -c(labels, subject))
 tidy_data = cbind("subject"= subject, fulldata3)
 head(names(tidy_data))
 
-# save the tidy dataset
-
-write.table(tidy_data, file = ".tidy_data.txt")
-
 # create a second independent tidy dataset with the average of each variable for each activity
 
 # data frame for average by activity
