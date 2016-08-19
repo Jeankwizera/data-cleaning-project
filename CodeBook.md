@@ -6,7 +6,7 @@ The data was provided courtesy of:
 
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
-DITEN - Universit‡ degli Studi di Genova.
+DITEN - Universit√† degli Studi di Genova.
 Via Opera Pia 11A, I-16145, Genoa, Italy.
 activityrecognition@smartlab.ws
 www.smartlab.ws
@@ -104,7 +104,7 @@ variable names in uppercase denote the mean of of their corresponding initial  v
            fBodyAccMag-meanFreq()
        fBodyBodyAccJerkMag-mean()
         fBodyBodyAccJerkMag-std()
-   fBodyBodyAccJerkMag-meanFreq()
+    fBodyBodyAccJerkMag-meanFreq()
           fBodyBodyGyroMag-mean()
            fBodyBodyGyroMag-std()
       fBodyBodyGyroMag-meanFreq()
@@ -183,13 +183,13 @@ variable names in uppercase denote the mean of of their corresponding initial  v
           fbodyaccmag-meanfreq()
       fbodybodyaccjerkmag-mean()
        fbodybodyaccjerkmag-std()
-  fbodybodyaccjerkmag-meanfreq()
+    fbodybodyaccjerkmag-meanfreq()
          fbodybodygyromag-mean()
           fbodybodygyromag-std()
      fbodybodygyromag-meanfreq()
      fbodybodygyrojerkmag-mean()
       fbodybodygyrojerkmag-std()
- fbodybodygyrojerkmag-meanfreq()
+    fbodybodygyrojerkmag-meanfreq()
                TBODYACC-MEAN()-X
                TBODYACC-MEAN()-Y
                TBODYACC-MEAN()-Z
@@ -262,13 +262,13 @@ variable names in uppercase denote the mean of of their corresponding initial  v
           FBODYACCMAG-MEANFREQ()
       FBODYBODYACCJERKMAG-MEAN()
        FBODYBODYACCJERKMAG-STD()
-  FBODYBODYACCJERKMAG-MEANFREQ()
+    FBODYBODYACCJERKMAG-MEANFREQ()
          FBODYBODYGYROMAG-MEAN()
           FBODYBODYGYROMAG-STD()
      FBODYBODYGYROMAG-MEANFREQ()
      FBODYBODYGYROJERKMAG-MEAN()
       FBODYBODYGYROJERKMAG-STD()
- FBODYBODYGYROJERKMAG-MEANFREQ()
+    FBODYBODYGYROJERKMAG-MEANFREQ()
 
 The set of variables that were estimated from these signals are: 
 
