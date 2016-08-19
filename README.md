@@ -1,5 +1,3 @@
-# this repo explains how all of the scripts work and how they are connected.
-
 # THIS REPO CONTAINS THE FOLLOWING FILES
 
 - 'run_analysis.R' : contains the code for performing the analysis.
