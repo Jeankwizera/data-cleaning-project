@@ -106,4 +106,4 @@ tidy_with_avg = merge(tidy_with_avg, avg_by_activity, by.x ="activity", by.y = "
 # merge "avg_by_subject to it
 tidy_with_avg = merge(tidy_with_avg, avg_by_subject, by.x = "subject", by.y = "GROUP.1")
 
-write.table(tidy_with_avg, file = "./tidy_with_avg.txt")
+write.table(tidy_with_avg, file = "./tidy_with_avg.txt", row.names = F)
